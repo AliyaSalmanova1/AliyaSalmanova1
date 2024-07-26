@@ -3,7 +3,7 @@
 
 
 - 👩🏻‍💻 I’m currently working on open source projects!
-- 📚 At the moment I am also learning Material UI!
+- 📚 At the moment I am also learning Angular!
 - 💼 Visit my personal portfolio where you can contact me: https://aliya-s-portfolio.vercel.app/ 
 - ❤️ Passionate about creating friendly, responsive interfaces and apps that users will love 
 - 🌸 Besides coding, I also enjoy karaoke, reading, doing music, and fussing over my dog
