@@ -1,6 +1,8 @@
 ## Thank you for visiting my profile 👋
 
-- 💼 My portfolio: https://aliya-s-portfolio.vercel.app/ 
+- 💼 My portfolio: https://aliya-s-portfolio.vercel.app/
+- Music reel: https://aliya-s-portfolio.vercel.app/#music
+- Development projects: https://aliya-s-portfolio.vercel.app/#projects
 
 
 ### Here are some technologies that I use 🧰
